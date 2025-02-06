@@ -1,2 +1,9 @@
 # ChitChat
-It is like a chat application with my friends
+
+## Objective
+
+| Column1 | Column2 |
+| ------- | ------- |
+| Row1    |         |
+| Row2    |         |
+| Row3    |         |
