@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# ChitChat
 
 ## 📌 Overview
 A real-time chat application that allows users to communicate via text, images, videos, and video calls (optional). It includes authentication, friend management, online/offline status indicators, notifications, and customization options. Built with React.js, Redux Toolkit, Socket.io, Node.js, and MongoDB for a seamless experience.
